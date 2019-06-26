@@ -17412,7 +17412,7 @@
   </Placemark>
   <Placemark>
 	<description>AV43</description>
-
+	<Style id="7B678336"><PolyStyle><color>FF0000FF</color></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#3G_mumbai_grid_WK18">
 		<SimpleData name="Col_Name">AV</SimpleData>
 		<SimpleData name="Row_Name"></SimpleData>
@@ -18315,5 +18315,4 @@
       <Polygon><outerBoundaryIs><LinearRing><coordinates>73.237724,19.298432 73.237724,19.299532 73.238697,19.299532 73.238629,19.298916 73.238655,19.298549 73.238632,19.298376 73.23862,19.298027 73.238411,19.298045 73.237845,19.29842 73.237724,19.298432</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
-<Style id="7B678336"><PolyStyle><color>FF0000FF</color></PolyStyle></Style>
 </Document></kml>
