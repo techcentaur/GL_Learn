@@ -17424,7 +17424,7 @@
   </Placemark>
   <Placemark>
 	<description>AV45</description>
-	<Style><LineStyle><color>FF000000</color><width>1</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>FF0000FF</color><width>1</width></LineStyle><PolyStyle><fill>1</fill><color>FF0000FF</color></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#3G_mumbai_grid_WK18">
 		<SimpleData name="Col_Name">AV</SimpleData>
 		<SimpleData name="Row_Name"></SimpleData>
@@ -18290,7 +18290,6 @@
 		<SimpleData name="Detractor1"></SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>73.228204,19.310693 73.228204,19.310324 73.228204,19.308525 73.2263,19.308525 73.224396,19.308525 73.222492,19.308525 73.222036,19.308525 73.222036,19.308577 73.222127,19.309177 73.222604,19.309713 73.223285,19.310163 73.224489,19.310528 73.226601,19.310806 73.228078,19.310721 73.228204,19.310693</coordinates></LinearRing></outerBoundaryIs></Polygon>
-      <styleUrl>#7B678336</styleUrl>
   </Placemark>
   <Placemark>
 	<description>BL21</description>
