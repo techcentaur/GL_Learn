@@ -17412,7 +17412,7 @@
   </Placemark>
   <Placemark>
 	<description>AV43</description>
-	<Style><LineStyle><color>FF000000</color><width>1</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+
 	<ExtendedData><SchemaData schemaUrl="#3G_mumbai_grid_WK18">
 		<SimpleData name="Col_Name">AV</SimpleData>
 		<SimpleData name="Row_Name"></SimpleData>
@@ -17420,6 +17420,7 @@
 		<SimpleData name="Detractor1"></SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>73.066363,19.094486 73.066363,19.096285 73.066363,19.098083 73.066363,19.099882 73.066363,19.101681 73.068267,19.101681 73.070171,19.101681 73.072075,19.101681 73.073979,19.101681 73.075883,19.101681 73.075883,19.099882 73.075883,19.098083 73.075883,19.096285 73.075883,19.094486 73.075883,19.092687 73.073979,19.092687 73.072075,19.092687 73.070171,19.092687 73.068267,19.092687 73.066363,19.092687 73.066363,19.094486</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <styleUrl>#7B678336</styleUrl>
   </Placemark>
   <Placemark>
 	<description>AV45</description>
@@ -18289,6 +18290,7 @@
 		<SimpleData name="Detractor1"></SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>73.228204,19.310693 73.228204,19.310324 73.228204,19.308525 73.2263,19.308525 73.224396,19.308525 73.222492,19.308525 73.222036,19.308525 73.222036,19.308577 73.222127,19.309177 73.222604,19.309713 73.223285,19.310163 73.224489,19.310528 73.226601,19.310806 73.228078,19.310721 73.228204,19.310693</coordinates></LinearRing></outerBoundaryIs></Polygon>
+      <styleUrl>#7B678336</styleUrl>
   </Placemark>
   <Placemark>
 	<description>BL21</description>
@@ -18313,4 +18315,5 @@
       <Polygon><outerBoundaryIs><LinearRing><coordinates>73.237724,19.298432 73.237724,19.299532 73.238697,19.299532 73.238629,19.298916 73.238655,19.298549 73.238632,19.298376 73.23862,19.298027 73.238411,19.298045 73.237845,19.29842 73.237724,19.298432</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
+<Style id="7B678336"><PolyStyle><color>FF0000FF</color></PolyStyle></Style>
 </Document></kml>
